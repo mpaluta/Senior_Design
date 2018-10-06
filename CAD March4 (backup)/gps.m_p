@@ -1,0 +1,38 @@
+﻿                         MASS PROPERTIES OF THE PART GPS
+
+                         VOLUME =  3.0654000e-01 INCH^3
+                   SURFACE AREA =  3.2976000e+00 INCH^2
+                        DENSITY =  9.0330000e-02 POUND / INCH^3
+                           MASS =  2.7689758e-02 POUND 
+
+            CENTER OF GRAVITY with respect to _GPS coordinate frame:
+X   Y   Z           1.5000000e-01  6.5500000e-01 -3.9000000e-01  INCH
+
+        INERTIA with respect to _GPS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.1454948e-02 -2.7205187e-03  1.6198509e-03
+Iyx Iyy Iyz        -2.7205187e-03  6.4461757e-03  7.0733487e-03
+Izx Izy Izz         1.6198509e-03  7.0733487e-03  1.6670157e-02
+
+       INERTIA at CENTER OF GRAVITY with respect to _GPS coordinate frame:
+                                                         (POUND * INCH^2)       
+INERTIA TENSOR:
+Ixx Ixy Ixz         5.3637369e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.6115439e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.1675394e-03
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.6115439e-03  4.1675394e-03  5.3637369e-03
+
+            ROTATION MATRIX from _GPS orientation to PRINCIPAL AXES:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+       ROTATION ANGLES from _GPS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000         90.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.4124676e-01  3.8795404e-01  4.4012309e-01  INCH
+

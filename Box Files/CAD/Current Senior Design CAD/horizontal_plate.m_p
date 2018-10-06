@@ -1,0 +1,38 @@
+﻿                  MASS PROPERTIES OF THE PART HORIZONTAL_PLATE
+
+                         VOLUME =  7.4567500e+00 INCH^3
+                   SURFACE AREA =  6.6294000e+01 INCH^2
+                        DENSITY =  1.3890000e-02 POUND / INCH^3
+                           MASS =  1.0357426e-01 POUND 
+
+      CENTER OF GRAVITY with respect to _HORIZONTAL_PLATE coordinate frame:
+X   Y   Z           5.2212685e+00  1.2500000e-01 -1.4400000e+00  INCH
+
+  INERTIA with respect to _HORIZONTAL_PLATE coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.8806708e-01 -6.7598626e-02  7.7873617e-01
+Iyx Iyy Iyz        -6.7598626e-02  4.0357469e+00  1.8643366e-02
+Izx Izy Izz         7.7873617e-01  1.8643366e-02  3.7519954e+00
+
+INERTIA at CENTER OF GRAVITY with respect to _HORIZONTAL_PLATE coordinate frame:
+                                                                (POUND * INCH^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         7.1677148e-02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  9.9737069e-01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  9.2677244e-01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          7.1677148e-02  9.2677244e-01  9.9737069e-01
+
+      ROTATION MATRIX from _HORIZONTAL_PLATE orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+ ROTATION ANGLES from _HORIZONTAL_PLATE orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          8.3188720e-01  2.9913046e+00  3.1031473e+00  INCH
+

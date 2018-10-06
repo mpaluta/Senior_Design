@@ -1,0 +1,38 @@
+﻿                    MASS PROPERTIES OF THE PART RECIEVER_BIG
+
+                         VOLUME =  1.1657100e+00 INCH^3
+                   SURFACE AREA =  7.2398000e+00 INCH^2
+                        DENSITY =  2.3000000e-02 POUND / INCH^3
+                           MASS =  2.6811330e-02 POUND 
+
+        CENTER OF GRAVITY with respect to _RECIEVER_BIG coordinate frame:
+X   Y   Z           3.2500000e-01  9.1500000e-01 -4.9000000e-01  INCH
+
+    INERTIA with respect to _RECIEVER_BIG coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.8512688e-02 -7.9730193e-03  4.2697043e-03
+Iyx Iyy Iyz        -7.9730193e-03  1.2359129e-02  1.2020860e-02
+Izx Izy Izz         4.2697043e-03  1.2020860e-02  3.3705417e-02
+
+  INERTIA at CENTER OF GRAVITY with respect to _RECIEVER_BIG coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         9.6281720e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  3.0897824e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  8.4263542e-03
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          3.0897824e-03  8.4263542e-03  9.6281720e-03
+
+        ROTATION MATRIX from _RECIEVER_BIG orientation to PRINCIPAL AXES:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+   ROTATION ANGLES from _RECIEVER_BIG orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000         90.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          3.3947263e-01  5.6060979e-01  5.9925648e-01  INCH
+

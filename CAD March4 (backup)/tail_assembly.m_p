@@ -1,0 +1,70 @@
+﻿                  MASS PROPERTIES OF THE ASSEMBLY TAIL_ASSEMBLY
+
+                         VOLUME =  5.1121988e+01 INCH^3
+                   SURFACE AREA =  4.9591715e+02 INCH^2
+                AVERAGE DENSITY =  2.4752130e-02 POUND / INCH^3
+                           MASS =  1.2653781e+00 POUND 
+
+       CENTER OF GRAVITY with respect to _TAIL_ASSEMBLY coordinate frame:
+X   Y   Z          -3.7273588e-01  1.2539506e-03  2.8359620e+01  INCH
+
+   INERTIA with respect to _TAIL_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2433503e+03  2.5184923e-03  2.1570799e+01
+Iyx Iyy Iyz         2.5184923e-03  1.2329212e+03 -6.7338068e-02
+Izx Izy Izz         2.1570799e+01 -6.7338068e-02  1.8075284e+01
+
+  INERTIA at CENTER OF GRAVITY with respect to _TAIL_ASSEMBLY coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.2564716e+02  1.9270642e-03  8.1949329e+00
+Iyx Iyy Iyz         1.9270642e-03  2.1504222e+02 -2.2339246e-02
+Izx Izy Izz         8.1949329e+00 -2.2339246e-02  1.7899480e+01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.7576717e+01  2.1504222e+02  2.2596992e+02
+
+       ROTATION MATRIX from _TAIL_ASSEMBLY orientation to PRINCIPAL AXES:
+                      -0.03935       -0.00009       -0.99923
+                       0.00011        1.00000       -0.00010
+                       0.99923       -0.00012       -0.03935
+
+  ROTATION ANGLES from _TAIL_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  179.861        -87.745        179.867 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          3.7269943e+00  1.3036221e+01  1.3363344e+01  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+           (in assembly units and the _TAIL_ASSEMBLY coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    BOOM                             CARBON_FIBER
+         5.78037e-02  3.51484e-01  1.96500e-01 -1.96500e-01  1.96850e+01
+    BOOM                             CARBON_FIBER
+         5.78037e-02  3.51484e-01  1.96500e-01  1.96500e-01  1.96850e+01
+    TAIL_BLOCK                       LITE-PLY
+         1.38900e-02  4.54550e-03  1.14973e-03  0.00000e+00  3.93075e+01
+    TAIL_BLOCK                       LITE-PLY
+         1.38900e-02  4.54550e-03  1.14973e-03  0.00000e+00  3.91825e+01
+    HORIZONTAL_PLATE                 LITE-PLY
+         1.38900e-02  1.03574e-01  2.65000e-01 -5.61427e+00  3.79300e+01
+    HORIZONTAL_PLATE                 LITE-PLY
+         1.38900e-02  1.03574e-01  2.65000e-01  5.61427e+00  3.79300e+01
+    TAIL_BLOCK                       LITE-PLY
+         1.38900e-02  4.54550e-03  4.14973e-03  0.00000e+00  3.66775e+01
+    TAIL_BLOCK                       LITE-PLY
+         1.38900e-02  4.54550e-03  4.14973e-03  0.00000e+00  3.65525e+01
+    VERTICAL_PLATE                   LITE-PLY
+         1.38900e-02  8.21680e-02 -3.68842e+00  0.00000e+00  3.79001e+01
+    RUDDER                           LITE-PLY
+         1.38900e-02  8.16732e-02 -4.45000e+00  0.00000e+00  4.07700e+01
+    ELEVATOR                         LITE-PLY
+         1.38900e-02  1.42180e-01  2.65000e-01  0.00000e+00  4.03493e+01
+    TAIL_GEAR_ASSY                   UNKNOWN
+         4.39669e-02  3.10574e-02 -1.15558e+00  5.10900e-02  4.25034e+01

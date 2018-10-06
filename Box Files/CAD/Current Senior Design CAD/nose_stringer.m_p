@@ -1,0 +1,38 @@
+﻿                    MASS PROPERTIES OF THE PART NOSE_STRINGER
+
+                         VOLUME =  1.8168643e+00 INCH^3
+                   SURFACE AREA =  3.8216188e+01 INCH^2
+                        DENSITY =  1.3890000e-02 POUND / INCH^3
+                           MASS =  2.5236245e-02 POUND 
+
+       CENTER OF GRAVITY with respect to _NOSE_STRINGER coordinate frame:
+X   Y   Z           1.0951348e-03 -1.4503622e-01 -1.1832918e+00  INCH
+
+   INERTIA with respect to _NOSE_STRINGER coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         8.0225439e-02  1.3335955e-05  3.1562569e-05
+Iyx Iyy Iyz         1.3335955e-05  8.5989091e-02 -5.6895058e-03
+Izx Izy Izz         3.1562569e-05 -5.6895058e-03  5.2770557e-02
+
+  INERTIA at CENTER OF GRAVITY with respect to _NOSE_STRINGER coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.4359306e-02  9.3275760e-06 -1.1401738e-06
+Iyx Iyy Iyz         9.3275760e-06  5.0653786e-02 -1.3584568e-03
+Izx Izy Izz        -1.1401738e-06 -1.3584568e-03  5.2239670e-02
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          4.4359292e-02  4.9873791e-02  5.3019678e-02
+
+       ROTATION MATRIX from _NOSE_STRINGER orientation to PRINCIPAL AXES:
+                       1.00000        0.00136       -0.00065
+                      -0.00151        0.86721       -0.49794
+                      -0.00012        0.49794        0.86721
+
+  ROTATION ANGLES from _NOSE_STRINGER orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   29.864          0.000         -0.078 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.3258059e+00  1.4058009e+00  1.4494598e+00  INCH
+

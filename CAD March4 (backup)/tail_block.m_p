@@ -1,0 +1,38 @@
+﻿                     MASS PROPERTIES OF THE PART TAIL_BLOCK
+
+                         VOLUME =  3.2725000e-01 INCH^3
+                   SURFACE AREA =  7.5740000e+00 INCH^2
+                        DENSITY =  1.3890000e-02 POUND / INCH^3
+                           MASS =  4.5455025e-03 POUND 
+
+         CENTER OF GRAVITY with respect to _TAIL_BLOCK coordinate frame:
+X   Y   Z           1.6430000e+00  6.2500000e-02 -6.3885027e-01  INCH
+
+     INERTIA with respect to _TAIL_BLOCK coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.8752708e-03 -4.6676629e-04  4.7711003e-03
+Iyx Iyy Iyz        -4.6676629e-04  1.8515849e-02  1.8149347e-04
+Izx Izy Izz         4.7711003e-03  1.8149347e-04  1.5687927e-02
+
+   INERTIA at CENTER OF GRAVITY with respect to _TAIL_BLOCK coordinate frame:
+                                                             (POUND * INCH^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.0023605e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  4.3903423e-03  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  3.3998190e-03
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.0023605e-03  3.3998190e-03  4.3903423e-03
+
+         ROTATION MATRIX from _TAIL_BLOCK orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+    ROTATION ANGLES from _TAIL_BLOCK orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.6959236e-01  8.6484235e-01  9.8278437e-01  INCH
+

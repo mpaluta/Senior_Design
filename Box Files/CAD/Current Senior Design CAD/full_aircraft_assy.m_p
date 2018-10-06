@@ -1,0 +1,90 @@
+﻿               MASS PROPERTIES OF THE ASSEMBLY FULL_AIRCRAFT_ASSY
+
+                         VOLUME =  1.1092667e+02 INCH^3
+                   SURFACE AREA =  1.2953439e+03 INCH^2
+                AVERAGE DENSITY =  3.2698023e-02 POUND / INCH^3
+                           MASS =  3.6270829e+00 POUND 
+
+            CENTER OF GRAVITY with respect to ACS0 coordinate frame:
+X   Y   Z           7.5097411e+00  2.0338456e-01  2.1800318e-02  INCH
+
+        INERTIA with respect to ACS0 coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.6768953e+02 -6.8501705e+00 -4.3508663e-01
+Iyx Iyy Iyz        -6.8501705e+00  9.2537685e+02 -4.3602791e-02
+Izx Izy Izz        -4.3508663e-01 -4.3602791e-02  7.7284707e+02
+
+       INERTIA at CENTER OF GRAVITY with respect to ACS0 coordinate frame:
+                                                         (POUND * INCH^2)       
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.6753777e+02 -1.3102896e+00  1.5872031e-01
+Iyx Iyy Iyz        -1.3102896e+00  7.2082139e+02 -2.7520857e-02
+Izx Izy Izz         1.5872031e-01 -2.7520857e-02  5.6814331e+02
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.6753461e+02  5.6814336e+02  7.2082450e+02
+
+            ROTATION MATRIX from ACS0 orientation to PRINCIPAL AXES:
+                       1.00000        0.00040        0.00237
+                       0.00237        0.00018       -1.00000
+                      -0.00040        1.00000        0.00018
+
+       ROTATION ANGLES from ACS0 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   89.990          0.136          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          6.7963155e+00  1.2515558e+01  1.4097303e+01  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+                (in assembly units and the ACS0 coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    FUSELAGE_RIB                     LITE-PLY
+         1.38900e-02  7.12499e-03  2.50000e+00  7.52317e-02  0.00000e+00
+    FUSELAGE_RIB                     LITE-PLY
+         1.38900e-02  7.12499e-03  7.50000e+00  7.52317e-02  0.00000e+00
+    FUSELAGE_RIB                     LITE-PLY
+         1.38900e-02  7.12499e-03  1.25000e+01  7.52317e-02  0.00000e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00 -9.16603e-01  1.47112e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  1.43548e+00  1.54468e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  1.43548e+00 -1.54468e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  1.64800e+00 -6.90000e-01
+    FLOOR_W_PARTS                    UNKNOWN
+         4.99299e-02  1.02070e+00  3.35868e+00  1.31530e-01  8.68996e-02
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  1.64800e+00  6.90000e-01
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  3.00000e-01  1.91297e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00  3.00000e-01 -1.91297e+00
+    FUSELAGE_STRINGER                STRINGERS
+         2.65000e-02  8.21036e-03  7.50000e+00 -9.16603e-01 -1.47112e+00
+    NOSE_STRINGER                    LITE-PLY
+         1.38900e-02  2.44706e-02  1.21922e+00  1.45575e-01 -1.12940e-03
+    NOSE_CONE                        LITE-PLY
+         1.38900e-02  2.09715e-02  1.25000e-01  0.00000e+00  0.00000e+00
+    MOTOR_PLATE                      AL6061
+         9.79121e-02  5.04772e-02 -7.95000e-02  0.00000e+00  0.00000e+00
+    MOTOR_MOUNT                      UNKNOWN
+         1.12000e-01  7.30223e-01 -1.23400e+00  0.00000e+00  0.00000e+00
+    PROPELLER                        PROPELLER
+         1.70800e-01  8.60024e-02 -2.53902e+00  0.00000e+00  0.00000e+00
+    TAIL_ASSEMBLY                    UNKNOWN
+         1.37724e-02  6.16538e-01  3.26689e+01 -2.08960e-01 -2.57517e-03
+    WING_ASSEMBLY                    UNKNOWN
+         1.59847e-02  3.69483e-01  9.25186e+00  2.27538e+00 -3.52962e-05
+    FUSELAGE_BACK_PLATE              LITE-PLY
+         1.38900e-02  1.29793e-02  1.41964e+01  5.13044e-01  0.00000e+00
+    MAIN_GEAR_ASSY                   UNKNOWN
+         1.03300e-02  6.81837e-02  5.62500e-01 -4.53603e+00 -1.96500e-01
+    PAYLOAD                          UNKNOWN
+         2.25000e+00  5.40000e-01  8.62500e-01  2.75000e-01  1.00000e-02

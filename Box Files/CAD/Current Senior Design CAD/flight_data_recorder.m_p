@@ -1,0 +1,38 @@
+﻿                MASS PROPERTIES OF THE PART FLIGHT_DATA_RECORDER
+
+                         VOLUME =  2.1677600e+00 INCH^3
+                   SURFACE AREA =  1.0796800e+01 INCH^2
+                        DENSITY =  2.3470000e-02 POUND / INCH^3
+                           MASS =  5.0877327e-02 POUND 
+
+      CENTER OF GRAVITY with respect to _FLIGHT_DATA_RECO coordinate frame:
+X   Y   Z           7.0000000e-01  3.9500000e-01 -9.8000000e-01  INCH
+
+  INERTIA with respect to _FLIGHT_DATA_RECO coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         7.5734293e-02 -1.4067581e-02  3.4901846e-02
+Iyx Iyy Iyz        -1.4067581e-02  9.8389967e-02  1.9694613e-02
+Izx Izy Izz         3.4901846e-02  1.9694613e-02  4.3824034e-02
+
+INERTIA at CENTER OF GRAVITY with respect to _FLIGHT_DATA_RECO coordinate frame:
+                                                                (POUND * INCH^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.8933573e-02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.4597492e-02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.0956008e-02
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.0956008e-02  1.8933573e-02  2.4597492e-02
+
+      ROTATION MATRIX from _FLIGHT_DATA_RECO orientation to PRINCIPAL AXES:
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+
+ ROTATION ANGLES from _FLIGHT_DATA_RECO orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -90.000          0.000        -90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.6404921e-01  6.1003415e-01  6.9531767e-01  INCH
+

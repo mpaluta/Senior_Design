@@ -1,0 +1,38 @@
+﻿                     MASS PROPERTIES OF THE PART TAIL_WHEEL
+
+                         VOLUME =  1.9986312e-01 INCH^3
+                   SURFACE AREA =  2.4646163e+00 INCH^2
+                        DENSITY =  8.9000000e-03 POUND / INCH^3
+                           MASS =  1.7787818e-03 POUND 
+
+         CENTER OF GRAVITY with respect to _TAIL_WHEEL coordinate frame:
+X   Y   Z           0.0000000e+00  0.0000000e+00  0.0000000e+00  INCH
+
+     INERTIA with respect to _TAIL_WHEEL coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.2007976e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.1986539e-04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.1986539e-04
+
+   INERTIA at CENTER OF GRAVITY with respect to _TAIL_WHEEL coordinate frame:
+                                                             (POUND * INCH^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.2007976e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.1986539e-04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.1986539e-04
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.1986538e-04  1.1986539e-04  2.2007976e-04
+
+         ROTATION MATRIX from _TAIL_WHEEL orientation to PRINCIPAL AXES:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+    ROTATION ANGLES from _TAIL_WHEEL orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000         90.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.5958856e-01  2.5958857e-01  3.5174564e-01  INCH
+

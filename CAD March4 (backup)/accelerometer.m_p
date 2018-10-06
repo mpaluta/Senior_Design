@@ -1,0 +1,38 @@
+﻿                    MASS PROPERTIES OF THE PART ACCELEROMETER
+
+                         VOLUME =  3.5168000e-01 INCH^3
+                   SURFACE AREA =  3.8392000e+00 INCH^2
+                        DENSITY =  3.1480000e-02 POUND / INCH^3
+                           MASS =  1.1070886e-02 POUND 
+
+       CENTER OF GRAVITY with respect to _ACCELEROMETER coordinate frame:
+X   Y   Z           1.4000000e-01  7.8500000e-01 -4.0000000e-01  INCH
+
+   INERTIA with respect to _ACCELEROMETER coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.1457998e-02 -1.2166904e-03  6.1996964e-04
+Iyx Iyy Iyz        -1.2166904e-03  2.6511083e-03  3.4762583e-03
+Izx Izy Izz         6.1996964e-04  3.4762583e-03  9.3855285e-03
+
+  INERTIA at CENTER OF GRAVITY with respect to _ACCELEROMETER coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.8644996e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  6.6277707e-04  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  2.3463821e-03
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          6.6277707e-04  2.3463821e-03  2.8644996e-03
+
+       ROTATION MATRIX from _ACCELEROMETER orientation to PRINCIPAL AXES:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+  ROTATION ANGLES from _ACCELEROMETER orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000         90.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.4467666e-01  4.6037123e-01  5.0866656e-01  INCH
+

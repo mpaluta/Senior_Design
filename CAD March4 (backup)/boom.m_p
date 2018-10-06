@@ -1,0 +1,38 @@
+﻿                        MASS PROPERTIES OF THE PART BOOM
+
+                         VOLUME =  6.0806571e+00 INCH^3
+                   SURFACE AREA =  6.2198538e+01 INCH^2
+                        DENSITY =  1.1500000e-02 POUND / INCH^3
+                           MASS =  6.9927557e-02 POUND 
+
+            CENTER OF GRAVITY with respect to _BOOM coordinate frame:
+X   Y   Z           1.9685000e+01  0.0000000e+00  0.0000000e+00  INCH
+
+        INERTIA with respect to _BOOM coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.8000402e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  3.6130066e+01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  3.6130066e+01
+
+      INERTIA at CENTER OF GRAVITY with respect to _BOOM coordinate frame:
+                                                          (POUND * INCH^2)      
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.8000402e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  9.0331914e+00  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  9.0331914e+00
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.8000402e-03  9.0331914e+00  9.0331914e+00
+
+            ROTATION MATRIX from _BOOM orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+
+       ROTATION ANGLES from _BOOM orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.6044158e-01  1.1365706e+01  1.1365706e+01  INCH
+

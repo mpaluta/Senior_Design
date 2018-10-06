@@ -1,0 +1,576 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  9 MAY 2014 14:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Final Report.tex"
+(./Final Report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen107
+\calc@Bdimen=\dimen108
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count90
+\calc@Cskip=\skip47
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks16
+\c@AM@survey=\count91
+\AM@templatesizebox=\box27
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks17
+\footnotemargin=\dimen109
+\c@pp@next@reset=\count92
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count93
+\c@@ppsavesec=\count94
+\c@@ppsaveapp=\count95
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count96
+\Gm@cntv=\count97
+\c@Gm@tempcnt=\count98
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+(./Final Report.aux)
+\openout1 = `"Final Report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen119
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \celsius on input line 22.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 22.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 22.
+Package gensymb Info: Using \Omega for \ohm on input line 22.
+
+Package gensymb Warning: Not defining \micro.
+
+\AtBeginShipoutBox=\box29
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+[1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1] (./Final Report.toc)
+\tf@toc=\write3
+\openout3 = `"Final Report.toc"'.
+
+ (./Final Report.lof
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `"Final Report.lof"'.
+
+ (./Final Report.lot)
+\tf@lot=\write5
+\openout5 = `"Final Report.lot"'.
+
+ [1]
+<Full_No_Caption.jpg, id=17, 1203.49625pt x 819.06pt>
+File: Full_No_Caption.jpg Graphic file (type jpg)
+
+<use Full_No_Caption.jpg>
+Package pdftex.def Info: Full_No_Caption.jpg used on input line 52.
+(pdftex.def)             Requested size: 469.75502pt x 319.69456pt.
+ [2] [3 <./Full_No_Caption.jpg>]
+<Wing_Design.png, id=24, 572.8602pt x 398.9304pt>
+File: Wing_Design.png Graphic file (type png)
+ <use Wing_Design.png>
+Package pdftex.def Info: Wing_Design.png used on input line 67.
+(pdftex.def)             Requested size: 469.75502pt x 327.13722pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Tail_Design.png, id=26, 545.8794pt x 390.258pt>
+File: Tail_Design.png Graphic file (type png)
+ <use Tail_Design.png>
+Package pdftex.def Info: Tail_Design.png used on input line 75.
+(pdftex.def)             Requested size: 469.75502pt x 335.83565pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Real_Wing.jpg, id=27, 815.045pt x 325.215pt>
+File: Real_Wing.jpg Graphic file (type jpg)
+ <use Real_Wing.jpg>
+Package pdftex.def Info: Real_Wing.jpg used on input line 84.
+(pdftex.def)             Requested size: 469.75502pt x 187.43881pt.
+ [4]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./Wing_Design.png>] [6 <./Tail_Design.png>]
+<FlightTrialPlots.jpg, id=41, 1112.155pt x 628.3475pt>
+File: FlightTrialPlots.jpg Graphic file (type jpg)
+
+<use FlightTrialPlots.jpg>
+Package pdftex.def Info: FlightTrialPlots.jpg used on input line 100.
+(pdftex.def)             Requested size: 469.75502pt x 265.40942pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<speed.jpg, id=42, 1112.155pt x 628.3475pt>
+File: speed.jpg Graphic file (type jpg)
+ <use speed.jpg>
+Package pdftex.def Info: speed.jpg used on input line 106.
+(pdftex.def)             Requested size: 469.75502pt x 265.40942pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./Real_Wing.jpg>] [8 <./FlightTrialPlots.jpg>] [9 <./speed.jpg>] [10]
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 152--171
+[][]
+ []
+
+[12] [13] [14] <SpreadsheetsIterTow.pdf, id=73, page=1, 614.295pt x 794.97pt>
+File: SpreadsheetsIterTow.pdf Graphic file (type pdf)
+
+<use SpreadsheetsIterTow.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsIterTow.pdf, page1 used on input line 312.
+
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: SpreadsheetsIterTow.pdf Graphic file (type pdf)
+ <use SpreadsheetsIterTow.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsIterTow.pdf, page1 used on input line 312.
+
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: SpreadsheetsIterTow.pdf Graphic file (type pdf)
+
+<use SpreadsheetsIterTow.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsIterTow.pdf, page1 used on input line 312.
+
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: SpreadsheetsIterTow.pdf Graphic file (type pdf)
+ <use SpreadsheetsIterTow.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsIterTow.pdf, page1 used on input line 312.
+
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+Overfull \hbox (28.90755pt too wide) in paragraph at lines 311--314
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--314
+
+ []
+
+File: SpreadsheetsIterTow.pdf Graphic file (type pdf)
+<use SpreadsheetsIterTow.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsIterTow.pdf, page1 used on input line 314.
+
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [15 <./SpreadsheetsIterTow.pdf>]
+<SpreadsheetsWingLD.pdf, id=99, page=1, 614.295pt x 794.97pt>
+File: SpreadsheetsWingLD.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWingLD.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWingLD.pdf, page1 used on input line 314.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: SpreadsheetsWingLD.pdf Graphic file (type pdf)
+ <use SpreadsheetsWingLD.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWingLD.pdf, page1 used on input line 314.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWingLD.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWingLD.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWingLD.pdf, page1 used on input line 314.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWingLD.pdf Graphic file (type pdf)
+ <use SpreadsheetsWingLD.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWingLD.pdf, page1 used on input line 314.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWingLD.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWingLD.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWingLD.pdf, page1 used on input line 314.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [16 <./SpreadsheetsWingLD.pdf>]
+<SpreadsheetsWing.pdf, id=122, page=1, 614.295pt x 794.97pt>
+File: SpreadsheetsWing.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWing.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWing.pdf, page1 used on input line 315.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: SpreadsheetsWing.pdf Graphic file (type pdf)
+ <use SpreadsheetsWing.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWing.pdf, page1 used on input line 315.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWing.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWing.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWing.pdf, page1 used on input line 315.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWing.pdf Graphic file (type pdf)
+ <use SpreadsheetsWing.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWing.pdf, page1 used on input line 315.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsWing.pdf Graphic file (type pdf)
+
+<use SpreadsheetsWing.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsWing.pdf, page1 used on input line 315.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [17 <./SpreadsheetsWing.pdf>]
+<SpreadsheetsTail.pdf, id=176, page=1, 614.295pt x 794.97pt>
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+
+<use SpreadsheetsTail.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page1 used on input line 316.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+ <use SpreadsheetsTail.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page1 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+
+<use SpreadsheetsTail.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page1 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+ <use SpreadsheetsTail.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page1 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+
+<use SpreadsheetsTail.pdf, page 1>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page1 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [18 <./SpreadsheetsTail.pdf>]
+<SpreadsheetsTail.pdf, id=222, page=2, 614.295pt x 794.97pt>
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+
+<use SpreadsheetsTail.pdf, page 2>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page2 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+ <use SpreadsheetsTail.pdf, page 2>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page2 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: SpreadsheetsTail.pdf Graphic file (type pdf)
+
+<use SpreadsheetsTail.pdf, page 2>
+Package pdftex.def Info: SpreadsheetsTail.pdf, page2 used on input line 316.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [19 <./SpreadsheetsTail.pdf>]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Skin.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Skin.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Skin.pdf): PDF inclusion: found PD
+F version <1.6>, but at most version <1.5> allowed
+<Skin.pdf, id=232, page=1, 794.97pt x 614.295pt>
+File: Skin.pdf Graphic file (type pdf)
+ <use Skin.pdf, page 1>
+Package pdftex.def Info: Skin.pdf, page1 used on input line 317.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: Skin.pdf Graphic file (type pdf)
+
+<use Skin.pdf, page 1>
+Package pdftex.def Info: Skin.pdf, page1 used on input line 317.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+File: Skin.pdf Graphic file (type pdf)
+ <use Skin.pdf, page 1>
+Package pdftex.def Info: Skin.pdf, page1 used on input line 317.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+File: Skin.pdf Graphic file (type pdf)
+ <use Skin.pdf, page 1>
+Package pdftex.def Info: Skin.pdf, page1 used on input line 317.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+File: Skin.pdf Graphic file (type pdf)
+
+<use Skin.pdf, page 1>
+Package pdftex.def Info: Skin.pdf, page1 used on input line 317.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+ [20 <./Skin.pdf>] (./Final Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3720 strings out of 493315
+ 53649 string characters out of 6137904
+ 132854 words of memory out of 5000000
+ 7096 multiletter control sequences out of 15000+600000
+ 8200 words of font info for 29 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 40i,19n,46p,1592b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmss10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on "Final Report.pdf" (22 pages, 1483303 bytes).
+PDF statistics:
+ 273 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+

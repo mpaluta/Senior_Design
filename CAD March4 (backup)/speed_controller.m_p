@@ -1,0 +1,38 @@
+﻿                  MASS PROPERTIES OF THE PART SPEED_CONTROLLER
+
+                         VOLUME =  1.9500000e+00 INCH^3
+                   SURFACE AREA =  1.2100000e+01 INCH^2
+                        DENSITY =  7.4500000e-02 POUND / INCH^3
+                           MASS =  1.4527500e-01 POUND 
+
+      CENTER OF GRAVITY with respect to _SPEED_CONTROLLER coordinate frame:
+X   Y   Z           0.0000000e+00  0.0000000e+00  0.0000000e+00  INCH
+
+  INERTIA with respect to _SPEED_CONTROLLER coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2941581e-01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.3486125e-02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.1198281e-01
+
+INERTIA at CENTER OF GRAVITY with respect to _SPEED_CONTROLLER coordinate frame:
+                                                                (POUND * INCH^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2941581e-01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.3486125e-02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.1198281e-01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          2.3486125e-02  1.1198281e-01  1.2941581e-01
+
+      ROTATION MATRIX from _SPEED_CONTROLLER orientation to PRINCIPAL AXES:
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+
+ ROTATION ANGLES from _SPEED_CONTROLLER orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000         90.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.0207794e-01  8.7797115e-01  9.4383968e-01  INCH
+

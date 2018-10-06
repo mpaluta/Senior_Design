@@ -1,0 +1,222 @@
+\documentclass[titlepage]{article}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{array}
+\usepackage{gensymb}
+\usepackage[bottom]{footmisc}
+\usepackage[title,titletoc,toc]{appendix}
+\renewcommand{\thetable}{\Roman{table}}
+\renewcommand{\baselinestretch}{1.75}
+\setlength{\textheight}{9in}
+\setlength{\textwidth}{6.75in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\topmargin}{0in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\parindent}{.4in}
+
+\begin{document}
+\title{\textbf{Conceptual Design Report}}
+\author{Brian Quinn, Mark Paluta, Eliseo Miranda, Patrick Wall}
+\maketitle
+
+\section{Introduction}
+For many years, remotely-controlled aircraft have occupied the interest of hobby enthusiasts due to their compact form and flexibility in design. For university students, however, they also offer a lower-cost approach to physical applications of aerodynamic theories and principles that can be used to supplement lecture topics. In this iteration, the remote-controlled aircraft will be constructed based on information gathered from both historical models and governing equations, tasking senior level students with the goal of designing an entire flying structure capable of successfully undertaking a stated mission profile. The first step, and topic of this report, is the conceptual design of the airplane including the primary design drivers which determine the path of construction, and the physical design features that will enable the aircraft to fly its mission. It is during the conceptual design stage that the aircraft takes it preliminary form and baseline data are obtained to better guide construction towards an efficient and successful remote-controlled vehicle.
+
+\section{Mission and Design Proposal}
+The stated mission for this design project consists of three phases of aircraft flight operation. The aircraft must first take off, solely under its own power, and maintain low altitude, level flight. From there, it must begin to climb as fast and as high as it can over a ten second interval and level off at the top of its ascent. After circling at the new altitude and verifying its stability, the aircraft will perform an unpowered glide back to its original altitude, with the area of focus centered on the rate of descent during that glide.  
+
+The primary design driver for this mission profile is aircraft weight. Although certain sensor packages and servo motors will necessarily be incorporated into the final design, weight savings can be gained from efficient design of the wing and fuselage structures to eliminate excess material weight. A low weight will help with both of the main objectives of the mission, climb and glide. For climb, a low-weight structure will not tax the fixed-thrust propeller motor as much as a heavier aircraft would on vertical ascent. On the gliding descent as well, a lighter aircraft should experience a more favorable descent gradient than heavier variants using the same lifting surfaces.
+
+The secondary design driver is a high lift-to-drag (L/D) ratio. High performance in this area will promote a low descent rate during the gliding phase of flight, allowing the aircraft to remain aloft for an extended period of time. In this design, the glide performance was deemed the mission phase in most need of optimization and, as such, the choice of the two primary design drivers centers around the aircraft performance characteristics that will lead to the best glide performance.
+
+There are a few key physical features on the proposed aircraft that will serve as main drivers towards the desired mission objectives. The main wing will have an aspect ratio of 7, leading to a total wingspan of 5 feet, 6 inches. The high aspect ratio will contribute to a low wing loading during descent which is favorable for glide performance. The wing will be mounted high on the fuselage to afford the aircraft increased roll stability during flight. 
+
+Climb performance of the aircraft is determined not only by the aircraft design, but also that of its motor. This iteration will employ a 1.25 horsepower motor, capable of providing approximately 3 pounds-force of thrust. This motor will power a 13 inch propeller with an 8 degree pitch, a more than capable thrust allotment to provide the needed forward force to fly the aircraft. 
+
+\section{Figure of Merit Analysis}
+Although this design is ultimately constrained by the requirements of the mission statement, a determination of favorable attributes for an aircraft of this type was conducted using a figure of merit (FoM) analysis. An FoM analysis is part of a design approach that is used to select components that form an aircraft's structure in an efficient and objective manner. Although the analysis cannot produce design dimensions, it can provide a numerical point of comparison between different variations of airframe components under consideration. As Table \ref{tab:FoMGen} shows, physical and performance characteristics are evaluated across a rating system between 1 and 5, with larger numbers representing a greater importance to the design drivers. The row totals are then summed and each characteristic is assigned a bias percentage which determines its overall priority in the final design. 
+
+\begin{table}[h!]
+\caption{Figures of Merit for Aircraft Performance}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \textbf{Weight} & \textbf{High L/D} & \textbf{Size} & \textbf{Ease of Construction} & \textbf{Stability \& Control} & \textbf{Payload} & \textbf{Row Totals} & \textbf{Bias} \\
+\hline
+\textbf{Weight} & 0.00 & 4.00 & 4.00 & 4.00 & 4.00 & 5.00 & 21.00 & 23 \% \\
+\hline
+\textbf{High L/D} & 2.00 & 0.00 & 4.00 & 4.00 & 3.00 & 5.00 & 18.00 & 20 \% \\
+\hline
+\textbf{Size} & 2.00 & 2.00 & 0.00 & 2.00 & 2.00 & 2.00 & 10.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 2.00 & 2.00 & 4.00 & 0.00 & 1.00 & 3.00 & 12.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 3.00 & 3.00 & 4.00 & 5.00 & 0.00 & 4.00 & 19.00 & 21 \% \\
+\hline
+\textbf{Payload} & 1.00 & 1.00 & 4.00 & 3.00 & 2.00 & 0.00 & 11.00 & 12 \% \\
+\hline
+\end{tabular}}
+\label{tab:FoMGen}
+\end{table}
+
+Once the design biases have been set, the figure of merit analysis is conducted on each of the possible component configurations considered for the final design. Table \ref{tab:wing} illustrates the process for the main wing selection. Unlike Table \ref{tab:FoMGen}, component analyses ratings are based on each configuration's benefit or detriment to the stated design drivers, with larger numbers representing more beneficial performance. These rankings are based on research into each possible configuration with special care taken to identify the strengths and weaknesses of each design. To finally determine the most appropriate component variation for the mission profile, a weighted average of the figures of merit for each configuration was tabulated, appearing on the bottom row of the matrix. Matrices for each of the other component analyses are located in Appendices \ref{sec:control}-\ref{sec:motor}
+
+\begin{table}[h!]
+\caption{Wing Design Matrix}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+& \textbf{Monoplane} & \textbf{Biplane} & \textbf{Tandem Wing/Canard} & \textbf{Flying Wing/Blended Body} & \textbf{Winglets} & \textbf{Bias} \\
+\hline
+\textbf{Weight} & 4.00 & 3.00 & 3.00 & 5.00 & 5.00 & 23 \% \\
+\hline
+\textbf{High L/D} & 3.00 & 4.00 & 3.00 & 3.50 & 2.00 & 20 \% \\
+\hline
+\textbf{Size} & 3.00 & 1.00 & 3.00 & 4.00 & 5.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 5.00 & 2.00 & 2.00 & 1.00 & 5.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 4.50 & 3.00 & 2.00 & 1.00 & 1.00 & 21 \% \\
+\hline
+\textbf{Payload} & 3.00 & 3.00 & 3.00 & 1.50 & 3.00 & 12 \% \\
+\hline
+\textbf{Column Average} & \textbf{\underline{3.81}} & \textbf{2.85} & \textbf{2.66} & \textbf{2.81} & \textbf{3.33} & \\
+\hline
+\end{tabular}}
+\label{tab:wing}
+\end{table}
+
+The results of each analysis were not entirely unexpected given the common history of these types of aircraft. Table \ref{tab:wing} shows that the single wing is the most advantageous wing configuration because of its low weight and relative ease of construction. Beyond those, it also boasts a high level of stability and average scores in all of the remaining categories, highlighting it as the best possible configuration.
+
+Scoring highly in the same categories as the wing, the conventional tail also logged a markedly higher score than its competitors. Historical data comparisons show that the conventional tail has the lowest weight of the three variations in the category and, due to its right angle mounted design, scores well for ease of construction as well.
+
+The final component selection of note is that of the landing gear. Historically, the three wheel trike configuration has a heavier under-mount system than other options such as the skids and tail gear which would suggest that it would conflict with the primary design driver of weight. In this instance, however, the additional stability gained over other gear options provided enough justification to the team to prioritize stability over weight. In addition to stability advantages, the trike gear also provides the aircraft with a more forgiving structure on which to land and takeoff. The three wheel configuration elevates the underbelly off the ground and provides some level of shock absorption during landing, preventing damage to the fuselage or lifting surfaces. 
+
+\section{Predictions from Spreadsheet Analysis}
+In addition to the figure of merit analysis, the provided aircraft design spreadsheets were used to determine finite numerical dimensions for each of the airframe components as well as providing some insight into the forces acting on the vehicle during flight. 
+
+Our empty weight is expected to be around 1.5 pounds, leading to an estimated takeoff weight of approximately 3.7 pounds which is a typical weight based on previous senior design aircraft. This figured is based on a preliminary weight estimate consisting of 2 pounds of aircraft control and monitoring equipment and a vehicle structure factor of 0.4.
+
+Perhaps one of the most important factors for determining the aircraft's ability to perform well within the mission constraints is the wing loading as it is an integral factor in the aircraft's climb and glide performance. As mentioned previously, glide performance is the mission phase in most need of optimization and, as such, the wing loading on the vehicle was determined based on performance during descent, during which a low wing loading is desired. True to form, assuming a glide from 1,400 ft ,assuming a ground elevation of 729 feet in South Bend, the wing loading during glide would only amount to about 0.81 lb/ft$^2$, or approximately 13 oz/ft$^2$, a wing loading that will surely help contribute to satisfactory glide performance.
+
+Given these flight characteristics and data culled from previous design planes, the final climb rate of the aircraft was given a best-estimate of 1,100 feet per minute although that number is expected to decrease in flight testing due to the structure weight of the high aspect ratio wing. Over the stated ten second time interval, this climb rate allows a gain in altitude of approximately 200 feet. Assuming the unpowered glide will begin at this altitude, it is estimated that the aircraft will lose 2.5 feet of altitude every second and take approximately 73 seconds to return to its original cruising altitude. As before, this glide rate assumes ideal flight conditions and is expected to diminish somewhat during flight testing.
+At the moment, the vehicle exhibits a lift-to-drag ratio of approximately 26 which falls within the average value for light cruise aircraft. Over the design and construction process, however, various drag reduction methods will be explored to increase this value. Control for the aircraft will be accomplished using two outboard ailerons, a rudder placed on the vertical tail, and a single elevator that occupies the entire trailing span of the horizontal tail plane. Once properly sized, these elements should provide sufficient control for the vehicle in flight.
+
+Each spreadsheet used in this analysis is attached at the back of this report in the order of completion. Due to the constraints and requirements of this remote controlled aircraft, the engine and flap spreadsheets have been omitted. Please note the following as well: The takeoff and landing spreadsheet is not representative of the values expected during either phase of flight and quantities cited in both the refined weight and stability analyses are rough estimates and will be updated throughout construction with actual values. 
+
+\section{Summary}
+
+This aircraft is designed for all-around performance within the mission specifications with a strong emphasis on optimizing the glide performance of the vehicle. As mentioned previously, this will be accomplished by reducing the overall structure weight of the aircraft and achieving a high lift-to-drag ratio. The current design features a minimalist, cylindrical, tapered fuselage which will allow storage of the required payload instruments and sensors while streamlining the exposed surface. Taking lead from this design, the rest of the aircraft will employ only the materials necessary to ensure a robust and stable flight system. In addition to this simplistic design, the craft will employ a high aspect ratio wing that will help to optimize and prolong the time spent in glide without destroying the climbing ability of the aircraft. Overall, the team feels that this design will succeed where previous designs have failed and will provide exceptional performance during its flights.
+
+\newpage
+
+\begin{appendices}
+\section{Control Surface Component Matrix}
+\label{sec:control}
+\begin{table} [h!]
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+& \textbf{2 Ailerons, 2 Elevators, 2 Flaps} & \textbf{2 Ailerons, 1 Elevator, 2 Flaps} & \textbf{2 Ailerons, 2 Elevators} & \textbf{Two Elevons} & \textbf{Bias} \\
+\hline
+\textbf{Weight} & 1.00 & 2.00 & 3.00 & 5.00 & 23 \%\\
+\hline
+\textbf{High L/D} & 5.00 & 4.00 & 3.00 & 1.00 & 20 \% \\
+\hline
+\textbf{Size} & 1.00 & 2.00 & 3.00 & 5.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 1.00 & 1.00 & 3.00 & 5.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 2.00 & 2.00 & 4.00 & 1.00 & 21 \% \\
+\hline
+\textbf{Payload} & 0.00 & 0.00 & 0.00 & 0.00 & 12 \% \\
+\hline
+\textbf{Column Average} & \textbf{1.88} & \textbf{2.02} & \textbf{\underline{2.85}} & \textbf{2.77} & \\
+\hline
+\end{tabular}}
+\label{tab:control}
+\end{table}
+
+\section{Landing Gear Component Matrix}
+\label{sec:gear}
+\begin{table}[h!]
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+& \textbf{None} & \textbf{Trike} & \textbf{Skids} & \textbf{Retractable} & \textbf{Tail} & \textbf{Monowheel} & \textbf{Bias} \\
+\hline
+\textbf{Weight} & 5.00 & 3.00 & 4.00 & 1.00 & 3.50 & 4.00 & 23 \%\\
+\hline
+\textbf{High L/D} & 5.00 & 3.00 & 4.00 & 1.00 & 4.00 & 4.00 & 20 \%\\
+\hline
+\textbf{Size} & 5.00 & 3.00 & 3.00 & 1.00 & 3.50 & 4.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 3.00 & 5.00 & 3.00 & 1.00 & 4.00 & 2.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 0.00 & 5.00 & 1.00 & 3.00 & 2.00 & 1.00 & 21 \% \\
+\hline
+\textbf{Payload} & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 12 \% \\
+\hline
+\textbf{Column Average} & \textbf{3.09} & \textbf{\underline{3.32}} & \textbf{2.65} & \textbf{1.30} & \textbf{2.93} & \textbf{2.63} & \\
+\hline
+\end{tabular}}
+\label{tab:gear}
+\end{table}
+
+\newpage 
+
+\section{Tail Configuration Matrix}
+\label{sec:tail}
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+& \textbf{Conventional} & \textbf{V-Tail} & \textbf{H-Tail} & \textbf{Bias}\\
+\hline
+\textbf{Weight} & 4.00 & 4.00 & 2.00 & 23 \%\\
+\hline
+\textbf{High L/D} & 5.00 & 5.00 & 2.00 & 20\%\\
+\hline
+\textbf{Size} & 3.00 & 3.00 & 2.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 5.00 & 2.00 & 5.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 4.00 & 2.00 & 5.00 & 21 \% \\
+\hline
+\textbf{Payload} & 3.00 & 3.00 & 3.00 & 12 \% \\
+\hline
+\textbf{Column Average} & \textbf{\underline{4.10}} & \textbf{3.29} & \textbf{3.14} & \\
+\hline
+\end{tabular}
+\label{tab:tail}
+\end{table}
+
+\section{Motor Configuration Matrix}
+\label{sec:motor}
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+& \textbf{Mono-Tractor} & \textbf{Mono-Pusher} & \textbf{Bias}\\
+\hline
+\textbf{Weight} & 4.00 & 4.00 & 23 \%\\
+\hline
+\textbf{High L/D} & 4.00 & 2.00 & 20 \%\\
+\hline
+\textbf{Size} & 3.00 & 3.00 & 11 \% \\
+\hline
+\textbf{Ease of Construction} & 5.00 & 3.00 & 13 \% \\
+\hline
+\textbf{Stability \& Control} & 4.00 & 2.00 & 21 \% \\
+\hline
+\textbf{Payload} & 3.00 & 3.00 & 12 \% \\
+\hline
+\textbf{Column Average} & \textbf{\underline{3.90}} & \textbf{2.82}& \\
+\hline
+\end{tabular}
+\label{tab:motor}
+\end{table}
+\end{appendices}
+\end{document}

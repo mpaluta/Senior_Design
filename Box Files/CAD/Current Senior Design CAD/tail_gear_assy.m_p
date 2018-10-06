@@ -1,0 +1,50 @@
+﻿                 MASS PROPERTIES OF THE ASSEMBLY TAIL_GEAR_ASSY
+
+                         VOLUME =  7.0786505e-01 INCH^3
+                   SURFACE AREA =  8.6955708e+00 INCH^2
+                AVERAGE DENSITY =  4.3995895e-02 POUND / INCH^3
+                           MASS =  3.1143156e-02 POUND 
+
+       CENTER OF GRAVITY with respect to _TAIL_GEAR_ASSY coordinate frame:
+X   Y   Z           1.1519667e-02  6.3268895e-01 -3.4361739e-01  INCH
+
+   INERTIA with respect to _TAIL_GEAR_ASSY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         5.0369039e-02  6.7417092e-04  2.6368880e-04
+Iyx Iyy Iyz         6.7417092e-04  6.6912284e-03  8.8016291e-04
+Izx Izy Izz         2.6368880e-04  8.8016291e-04  4.4506284e-02
+
+ INERTIA at CENTER OF GRAVITY with respect to _TAIL_GEAR_ASSY coordinate frame:
+                                                               (POUND * INCH^2) 
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.4225417e-02  9.0115364e-04  1.4041304e-04
+Iyx Iyy Iyz         9.0115364e-04  3.0099324e-03 -5.8904504e-03
+Izx Izy Izz         1.4041304e-04 -5.8904504e-03  3.2035693e-02
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.8344407e-03  3.3184405e-02  3.4252197e-02
+
+       ROTATION MATRIX from _TAIL_GEAR_ASSY orientation to PRINCIPAL AXES:
+                      -0.02813        0.03262        0.99907
+                       0.98109       -0.19056        0.03384
+                       0.19148        0.98113       -0.02664
+
+  ROTATION ANGLES from _TAIL_GEAR_ASSY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -128.213         87.532       -130.769 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.4270042e-01  1.0322519e+00  1.0487281e+00  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+          (in assembly units and the _TAIL_GEAR_ASSY coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    TAIL_GEAR                        CARBON_FIBER
+         5.78037e-02  2.93644e-02  5.56569e-04  7.84848e-01 -3.19909e-01
+    TAIL_WHEEL                       WHEEL
+         8.90000e-03  1.77878e-03  1.92500e-01 -1.87918e+00 -7.35000e-01

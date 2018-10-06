@@ -1,0 +1,62 @@
+﻿                  MASS PROPERTIES OF THE ASSEMBLY FLOOR_W_PARTS
+
+                         VOLUME =  2.1446718e+01 INCH^3
+                   SURFACE AREA =  1.2138367e+02 INCH^2
+                AVERAGE DENSITY =  4.8242502e-02 POUND / INCH^3
+                           MASS =  1.0346434e+00 POUND 
+
+       CENTER OF GRAVITY with respect to _FLOOR_W_PARTS coordinate frame:
+X   Y   Z           1.0953648e-01  8.6749123e-01 -3.5635633e+00  INCH
+
+   INERTIA with respect to _FLOOR_W_PARTS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.8872390e+01 -7.5661576e-02  6.7213949e-01
+Iyx Iyy Iyz        -7.5661576e-02  1.8156625e+01  2.6796346e+00
+Izx Izy Izz         6.7213949e-01  2.6796346e+00  1.6256248e+00
+
+  INERTIA at CENTER OF GRAVITY with respect to _FLOOR_W_PARTS coordinate frame:
+                                                              (POUND * INCH^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.9548597e+00  2.2652240e-02  2.6827661e-01
+Iyx Iyy Iyz         2.2652240e-02  5.0052918e+00 -5.1882044e-01
+Izx Izy Izz         2.6827661e-01 -5.1882044e-01  8.3459936e-01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          7.5379906e-01  4.9710417e+00  5.0699100e+00
+
+       ROTATION MATRIX from _FLOOR_W_PARTS orientation to PRINCIPAL AXES:
+                      -0.06391        0.99265       -0.10273
+                       0.12122        0.10990        0.98652
+                       0.99057        0.05060       -0.12736
+
+  ROTATION ANGLES from _FLOOR_W_PARTS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -97.356         -5.897        -93.684 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          8.5355687e-01  2.1919385e+00  2.2136288e+00  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+           (in assembly units and the _FLOOR_W_PARTS coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    FUSELAGE_FLOOR                   LITE-PLY
+         1.38900e-02  3.89563e-02  0.00000e+00 -6.12394e-02 -5.06250e+00
+    BATTERY                          UNKNOWN
+         5.79000e-02  7.25163e-01  0.00000e+00  1.05000e+00 -2.42000e+00
+    SPEED_CONTROLLER                 UNKNOWN
+         7.45000e-02  1.45275e-01  9.23000e-01  6.50000e-01 -5.84000e+00
+    RECIEVER_BIG                     UNKNOWN
+         2.30000e-02  2.68113e-02 -1.10000e-02  3.25000e-01 -5.25500e+00
+    RECIEVER_SMALL                   UNKNOWN
+         5.00000e-02  8.80000e-03  7.90000e-02  7.60000e-01 -5.67000e+00
+    ACCELEROMETER                    UNKNOWN
+         3.14800e-02  1.10709e-02 -1.03300e+00  4.00000e-01 -5.12500e+00
+    FLIGHT_DATA_RECORDER             UNKNOWN
+         2.34700e-02  5.08773e-02 -4.73000e-01  3.95000e-01 -7.65000e+00
+    GPS                              UNKNOWN
+         9.03300e-02  2.76898e-02  5.18000e-01  1.50000e-01 -9.02000e+00

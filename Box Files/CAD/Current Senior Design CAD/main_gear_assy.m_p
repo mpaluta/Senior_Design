@@ -1,0 +1,52 @@
+﻿                 MASS PROPERTIES OF THE ASSEMBLY MAIN_GEAR_ASSY
+
+                         VOLUME =  6.6005702e+00 INCH^3
+                   SURFACE AREA =  4.1484102e+01 INCH^2
+                AVERAGE DENSITY =  1.0329979e-02 POUND / INCH^3
+                           MASS =  6.8183750e-02 POUND 
+
+       CENTER OF GRAVITY with respect to _MAIN_GEAR_ASSY coordinate frame:
+X   Y   Z           0.0000000e+00 -2.0430342e+00  0.0000000e+00  INCH
+
+   INERTIA with respect to _MAIN_GEAR_ASSY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.8034362e-01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  7.8501271e-01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.1166582e+00
+
+ INERTIA at CENTER OF GRAVITY with respect to _MAIN_GEAR_ASSY coordinate frame:
+                                                               (POUND * INCH^2) 
+INERTIA TENSOR:
+Ixx Ixy Ixz         9.5745410e-02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  7.8501271e-01  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  8.3206001e-01
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          9.5745410e-02  7.8501271e-01  8.3206001e-01
+
+       ROTATION MATRIX from _MAIN_GEAR_ASSY orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+
+  ROTATION ANGLES from _MAIN_GEAR_ASSY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.1850005e+00  3.3931097e+00  3.4933080e+00  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+          (in assembly units and the _MAIN_GEAR_ASSY coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    MAIN_LANDING_GEAR                CARBON_FIBER
+         5.78037e-02  1.11564e-02  0.00000e+00 -4.48386e-01  0.00000e+00
+    MAIN_WHEEL                       WHEEL
+         8.90000e-03  2.85137e-02  3.52500e+00 -2.35500e+00  0.00000e+00
+    MAIN_WHEEL                       WHEEL
+         8.90000e-03  2.85137e-02 -3.52500e+00 -2.35500e+00  0.00000e+00
